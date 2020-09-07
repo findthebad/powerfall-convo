@@ -12,7 +12,7 @@ This lab is based on real data containing actual malicious indicators.  If you a
 5) When `docker-compose up` is finished bringing the containers up, open a browser and navigate to `http://localhost:5601` to access the Kibana instance.
 
 ## The Lab
-This lab continues with the use of Kibana for identifying and investigating signs of a compromise.  The `VT Hunting` dashboard has been updated with some new visualizations that should provide you the information you need to get started.
+This lab continues with the use of Kibana for identifying and investigating signs of a compromise (see [Model 3](https://github.com/findthebad/model-3)).  The `VT Hunting` dashboard has been updated with some new visualizations that should provide you the information you need to get started.
 
 ### Questions
 1) What malicious domain has a process attempted to communicate with?
