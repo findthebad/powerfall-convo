@@ -1,5 +1,5 @@
 # Find the Bad: Powerfall Convo
-This lab continues to build on the previous [exercise](https://github.com/jacksimple/find_the_bad_model_3).  It should only require the installation of Docker and Docker Compose. 
+This lab continues to build on the previous [exercise](https://github.com/findthebad/model-3).  It should only require the installation of Docker and Docker Compose. 
 
 ## Disclaimer
 This lab is based on real data containing actual malicious indicators.  If you attempt to do things such as find and run files, or visit network entities that occur in these logs, you do so at your own risk.
