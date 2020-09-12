@@ -29,4 +29,5 @@ What advanced persistent threat (APT) has been discussed as being the potential 
 - [Sysmon Event ID 22](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-22-dnsevent-dns-query)
 - [Base64](https://en.wikipedia.org/wiki/Base64)
 - [CyberChef](https://github.com/gchq/cyberchef)
+- [PowerShell](https://ss64.com/ps/powershell.html)
 - [Investigating PowerShell Attacks](https://redcanary.com/blog/investigating-powershell-attacks/)
