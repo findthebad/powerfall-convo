@@ -1,5 +1,5 @@
 # Find the Bad: Powerfall Convo
-This lab continues to build on the previous [exercise](https://github.com/jacksimple/find_the_bad_model_3).  It should only require the installation of Docker and Docker Compose. 
+This lab continues to build on the previous [exercise](https://github.com/findthebad/model-3).  It should only require the installation of Docker and Docker Compose. 
 
 ## Disclaimer
 This lab is based on real data containing actual malicious indicators.  If you attempt to do things such as find and run files, or visit network entities that occur in these logs, you do so at your own risk.
@@ -15,7 +15,7 @@ This lab is based on real data containing actual malicious indicators.  If you a
 This lab continues with the use of Kibana for identifying and investigating signs of a compromise (see [Model 3](https://github.com/findthebad/model-3)).  The `VT Hunting` dashboard has been updated with some new visualizations that should provide you the information you need to get started.
 
 ### Questions
-1) What malicious domain has a process attempted to communicate with?
+1) What malicious domain has a process attempted to communicate with (Hint: There may be multiple processes, but only one that was "user" initiated)?
 2) What were the command line arguments of the process that initiated the communication?
 3) What do the arguments do? Can you decode all of them?
 4) Does it appear the command was successful?  Why or why not?
