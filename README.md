@@ -15,8 +15,8 @@ This lab is based on real data containing actual malicious indicators.  If you a
 This lab continues with the use of Kibana for identifying and investigating signs of a compromise (see [Model 3](https://github.com/findthebad/model-3)).  The `VT Hunting` dashboard has been updated with some new visualizations that should provide you the information you need to get started.
 
 ### Questions
-1) What malicious domain has a process attempted to communicate with (Hint: There may be multiple processes, but only one that was "user" initiated)?
-2) What were the command line arguments of the process that initiated the communication?
+1) What malicious domain has a process attempted to communicate with?
+2) What were the command line arguments of the process that initiated the communication ((Hint: There may be multiple processes, but only one that was "user" initiated)?
 3) What do the arguments do? Can you decode all of them?
 4) Does it appear the command was successful?  Why or why not?
 5) When did this process activity start, end, and who was the user on what computer? 
