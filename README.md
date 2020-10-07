@@ -30,3 +30,6 @@ What advanced persistent threat (APT) has been discussed as being the potential 
 - [Base64](https://en.wikipedia.org/wiki/Base64)
 - [CyberChef](https://github.com/gchq/cyberchef)
 - [Investigating PowerShell Attacks](https://redcanary.com/blog/investigating-powershell-attacks/)
+
+### Solution
+Available [here](https://findthebad.com/powerfall-convo/).
