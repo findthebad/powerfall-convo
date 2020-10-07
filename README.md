@@ -16,7 +16,7 @@ This lab continues with the use of Kibana for identifying and investigating sign
 
 ### Questions
 1) What malicious domain has a process attempted to communicate with?
-2) What were the command line arguments of the process that initiated the communication ((Hint: There may be multiple processes, but only one that was "user" initiated)?
+2) What were the command line arguments of the process that initiated the communication (Hint: There may be multiple processes, but only one that was "user" initiated)?
 3) What do the arguments do? Can you decode all of them?
 4) Does it appear the command was successful?  Why or why not?
 5) When did this process activity start, end, and who was the user on what computer? 
